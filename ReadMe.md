@@ -29,3 +29,6 @@ Internally both the scripts run the following commands
 
 You can refer our help documents [here](https://help.geektrust.com)
 You can read build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Java)
+
+
+Problem Statement : https://www.geektrust.com/candidates/coding/detailed/geekdemy
